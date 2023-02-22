@@ -1,0 +1,11 @@
+.fluid-container {width: 100%;}
+.container {max-width:1100px;margin:0 auto;}
+a{text-decoration:none;}
+.top-bar-fluid{border-bottom:solid 2px #ececec}
+.top-bar{display: flex}
+.top-bar { display: flex;justify-content: space-between;}
+.contact-details {display: flex}.email {
+    margin-left: 27px;
+}
+
+<i class="fi fi-rr-home"></i>
